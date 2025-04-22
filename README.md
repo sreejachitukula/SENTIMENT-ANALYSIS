@@ -38,3 +38,7 @@ I used google collab for deveoping this task
 Google Colab: A cloud-based environment similar to Jupyter Notebook, but hosted on Google’s servers. It’s highly convenient as it requires no setup, supports GPU acceleration, and allows seamless collaboration and sharing via Google Drive.
 
 # OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/9765aaaf-4cbf-4d3d-b994-3694a1e0cc41)
+
+![Image](https://github.com/user-attachments/assets/c8d47299-d9f3-4cbb-97af-806aa5a24d52)
